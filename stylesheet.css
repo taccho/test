@@ -1,3 +1,8 @@
-h1{
-  text-align:center;
+.menu{
+  background:#000000;
+}
+
+.menu h1{
+  float:left;
+  color:rgba(255,255,255,0.8);
 }
