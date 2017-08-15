@@ -1,9 +1,13 @@
 .menu{
-  float:left;
   background:#000000;
 }
 
 .menu h1{
   float:left;
   color:rgba(255,255,255,0.8);
+}
+
+.menu a{
+  float:reight;
+  color:#fff;
 }
