@@ -11,11 +11,13 @@ header{
 .menu h1{
   float:left;
   color:#write;
+  display:block;
 }
 
 .menu a{
   float:right;
   color:#fff;
+  display:block;
 }
 
 /*top*/
