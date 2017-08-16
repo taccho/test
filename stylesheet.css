@@ -27,3 +27,11 @@ header{
   both:clear;
   text-align:center
 }
+/*about*/
+.about-wrapper{
+  background-color:#fff;
+}
+
+.about-wrapper h2{
+  text-align:center;
+}
