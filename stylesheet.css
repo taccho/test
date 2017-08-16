@@ -6,11 +6,12 @@ header{
   width:1170px;
   margin:0 auto;
   height:40px;
+  float:left;
 }
 
 .menu h1{
   float:left;
-  color:#write;
+  color:#FFFF00;
   display:block;
 }
 
