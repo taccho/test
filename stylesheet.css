@@ -1,6 +1,8 @@
 /*header*/
-.menu{
+header{
   background:#000000;
+}
+.menu{
   width:1170px;
   margin:0 auto;
   height:40px;
@@ -8,7 +10,7 @@
 
 .menu h1{
   float:left;
-  color:rgba(255,255,255,0.8);
+  color:#write;
 }
 
 .menu a{
