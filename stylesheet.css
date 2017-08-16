@@ -1,12 +1,12 @@
 /*header*/
 header{
-  background:#000000;
+  background:#black;
 }
 .menu{
   width:1170px;
   margin:0 auto;
   height:40px;
-  float:left;
+  display:inline-block;
 }
 
 .menu h1{
@@ -16,7 +16,7 @@ header{
 }
 
 .menu a{
-  float:right;
+  float:left;
   color:#fff;
   display:block;
 }
