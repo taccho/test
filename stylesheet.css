@@ -35,3 +35,11 @@ header{
 .about-wrapper h2{
   text-align:center;
 }
+.abouts{
+  width:1170px;
+  margin: 0 auto;
+}
+
+.about img{
+  width:30%;
+}
