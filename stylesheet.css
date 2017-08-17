@@ -15,14 +15,13 @@ header{
 }
 
 .menu a{
-  float:left;
   color:#fff;
   display:inline-block;
 }
 
 /*top*/
 .top-wrapper{
-  width:100%
+  width:100%;
   both:clear;
   text-align:center
 }
